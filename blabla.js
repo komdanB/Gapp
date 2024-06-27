@@ -10,7 +10,7 @@ console.log("Hello bloblo")
 
 
 
-
+//kan het zijn dat het nu wel werkt?
 
 
 
